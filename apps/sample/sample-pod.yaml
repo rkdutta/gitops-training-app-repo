@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: sample-pod
-  namespace: tenant-sample-app-1
+  namespace: apps
   labels:
     env: base
   annotations:
