@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: sample-pod
-  namespace: sample
+  namespace: apps
   annotations:
     cluster-name: placeholder
 spec:
